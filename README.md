@@ -1,2 +1,3 @@
 # INSY4970Lab
-username: AUusername<br>
+username: jzh0064<br>
+This is JianliangHao lab folder
